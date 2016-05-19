@@ -1,0 +1,25 @@
+{
+    "name": "jsmicro-is-object",
+    "description": "Check does the given Javascript Object is an object.",
+    "main": "index.js",
+    "authors": [
+        "Nanang Mahdaen El Agung <nanang@mahdaen.name> (http://mahdaen.name)"
+    ],
+    "license": "MIT",
+    "keywords": [
+        "is-object",
+        "isobject",
+        "object"
+    ],
+    "moduleType": [],
+    "homepage": "https://github.com/jsmicro/is-object",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "package.json",
+        "main.js",
+        "readme.md"
+    ]
+}

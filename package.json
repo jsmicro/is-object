@@ -1,0 +1,27 @@
+{
+    "name": "jsmicro-is-object",
+    "version": "1.0.0",
+    "description": "Check does the given Javascript Object is an object.",
+    "main": "main.js",
+    "scripts": {
+        "test": "node test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/jsmicro/is-object.git"
+    },
+    "keywords": [
+        "is-object",
+        "isobject",
+        "object"
+    ],
+    "author": "Nanang Mahdaen El Agung <nanang@mahdaen.name> (http://mahdaen.name)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/jsmicro/is-object/issues"
+    },
+    "homepage": "https://github.com/jsmicro/is-object#readme",
+    "devDependencies": {
+        "jsmicro-test": "^1.0.1"
+    }
+}

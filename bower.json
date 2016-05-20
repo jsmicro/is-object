@@ -1,5 +1,6 @@
 {
     "name": "jsmicro-is-object",
+    "version": "1.0.1",
     "description": "Check does the given Javascript Object is an object.",
     "main": "index.js",
     "authors": [

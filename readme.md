@@ -30,11 +30,11 @@ bower install --save jsmicro-is-object
 ## NodeJS Usage
 
 ```bash
-npm install --save jsmicro-is-object
+npm install --save @jsmicro/is-object
 ```
 
 ```js
-const obj = require('jsmicro-is-object');
+const obj = require('@jsmicro/is-object');
 
 // Available in the global object.
 isObject({}); // true
